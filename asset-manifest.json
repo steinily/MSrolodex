@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MSrolodex/static/css/main.291a293a.css",
+    "main.js": "/MSrolodex/static/js/main.8de5b8b8.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/MSrolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/MSrolodex/index.html",
+    "main.291a293a.css.map": "/MSrolodex/static/css/main.291a293a.css.map",
+    "main.8de5b8b8.js.map": "/MSrolodex/static/js/main.8de5b8b8.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/MSrolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291a293a.css",
+    "static/js/main.8de5b8b8.js"
+  ]
+}
